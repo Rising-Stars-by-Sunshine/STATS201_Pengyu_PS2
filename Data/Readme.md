@@ -1,0 +1,1 @@
+The "data" folder contains preliminary sample data for analysis. It includes demographic information, maternal mental health assessments, and neuroimaging data of children. Please refer to the "data/Readme.md" file for detailed descriptions
