@@ -1,0 +1,1 @@
+The "code" folder houses scripts for data querying and analysis. These scripts extract relevant features from the dataset and perform predictive modeling tasks. For a detailed explanation of the data query process, please consult the "code/Readme.md" file.
